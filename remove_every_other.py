@@ -1,4 +1,4 @@
-"""Write a function called remove_every_other that accepts a list and
+"""CHALLENGE: Write a function called remove_every_other that accepts a list and
 returns a new list with every second value removed"""
 
 # DANGER! Strange bug is detected if you use for loop! Check the code below.
