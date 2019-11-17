@@ -1,5 +1,7 @@
+"""Write a function called remove_every_other that accepts a list and
+returns a new list with every second value removed"""
 
-
+# DANGER! Strange bug is detected if you use for loop! Check the code below.
 ##def remove_every_other(lst):
 ##    return [el for el in lst if lst.index(el) % 2 == 0]
 

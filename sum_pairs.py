@@ -1,3 +1,9 @@
+"""Write a function called sum_pairs which accepts a list and a number and
+returns the first pair of numbers that sum to the number passed to the function.
+"""
+
+
+
 def sum_pairs(lst, tgt):
     i = 0
     while i < len(lst) - 1:
